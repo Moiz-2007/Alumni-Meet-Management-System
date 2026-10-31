@@ -1,0 +1,17 @@
+# Java compiled output
+out/
+bin/
+*.class
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local credentials
+config/db.properties
+.env

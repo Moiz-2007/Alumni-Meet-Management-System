@@ -1,0 +1,5 @@
+# Copy this file to config/db.properties and fill in YOUR password.
+# config/db.properties is listed in .gitignore - never commit it.
+db.url=jdbc:mysql://localhost:3306/AlumniMeetAppDB?useSSL=false&allowPublicKeyRetrieval=true&characterEncoding=UTF-8
+db.user=root
+db.password=
