@@ -1,5 +1,0 @@
-config/db.properties
-out/
-*.class
-lib/*.jar
-.vscode/

@@ -103,7 +103,7 @@ The Dashboard should say "Connected to jdbc:mysql://localhost:3306/AlumniMeetDB 
 |---|---|
 | `Cannot find the MySQL driver` | The JAR is not in `lib`, or you ran `java` without `-cp "out;lib/*"` |
 | `Cannot log in: wrong MySQL username or password` | Fix `config/db.properties` |
-| `Cannot find database AlumniMeetDB` | Run `database/schema.sql` |
+| `Cannot find database javac -cp "lib/*" -d out (Get-ChildItem -Recurse src -Filter *.java).FullName` | Run `database/schema.sql` |
 | `Cannot connect to MySQL` | Start the MySQL service; check the port in `db.url` |
 | `javac is not recognized` | Install a JDK and reopen the terminal |
 | `error: invalid source release` / records not supported | JDK older than 17 |
